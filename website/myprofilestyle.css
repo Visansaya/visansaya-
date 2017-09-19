@@ -5,6 +5,7 @@ body {
 h1.center {
     text-align:center;
     color: black;
+    font-size:25pt;
 }
 
 h2.center {
@@ -12,9 +13,9 @@ h2.center {
     color: black;
 }
 #yimmy {
-    align-items:center;
+    align:center;
     width:250px;
-    height: 400px;
+    height:400px;
 }
 
 ul.a {
@@ -23,6 +24,6 @@ ul.a {
 }
 
 ol.a {
-    list-style-type:"1";
+    list-style-type:1;
     list-style-position:inside;
 }
