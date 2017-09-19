@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1.center {
+    text-align:center;
+    color: black;
+}
+
+h2.center {
+    text-align:center;
+    color: black;
+}
+#yimmy {
+    align-items:center;
+    width:250px;
+    height: 400px;
+}
+
+ul.a {
+    list-style-type:disc;
+    list-style-position:inside;
+}
+
+ol.a {
+    list-style-type:"1";
+    list-style-position:inside;
+}
