@@ -5,7 +5,6 @@ body {
 h1.center {
     text-align:center;
     color: black;
-    font-size:25pt;
 }
 
 h2.center {
@@ -13,7 +12,6 @@ h2.center {
     color: black;
 }
 #yimmy {
-    align:center;
     width:250px;
     height:400px;
 }
